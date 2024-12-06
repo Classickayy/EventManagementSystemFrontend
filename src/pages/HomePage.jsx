@@ -1,13 +1,14 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
 import Footer from '../components/Footer'
+import EventCard from '../components/EventCard'
 
 const HomePage = () => {
   return (
     <div>
         <NavBar/>
 
-        <main className='flex gap-6'>
+        <main className='flex gap-6 justify-between px-5'>
             <section className='px-4 py-4 border ml-5 mt-4 mb-5 flex flex-col gap-5'>
                     <h2>My Prefeences</h2>
 
@@ -34,13 +35,13 @@ const HomePage = () => {
                     </div>
             </section>
 
-            <section>
-                <div>
+            <section className='mr-6'>
+              <h1>Events you Might Like</h1>
 
-                </div>
-
-                <div>
-
+                <div className='flex gap-5'>
+                        <EventCard/>
+                        <EventCard/>
+                        <EventCard/>
                 </div>
             </section>
 
