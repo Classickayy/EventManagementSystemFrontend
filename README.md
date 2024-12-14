@@ -8,7 +8,7 @@ You can find the backend repository for this project at: [Backend Repo Link](htt
 
 ## Deployed Project
 
-The project is deployed and can be accessed at: [Deployed Project Link](#)
+The project is deployed and can be accessed at: [Deployed Project Link](https://event-management-system-frontend-nu.vercel.app/)
 
 ## Features
 
