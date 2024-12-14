@@ -2,6 +2,14 @@
 
 This project is a web application built with React and Vite, designed to manage campus events. It features a user-friendly interface for students and administrators to discover, create, and manage events. The application includes functionalities such as event filtering, RSVP, and user authentication.
 
+## Backend Repository
+
+You can find the backend repository for this project at: [Backend Repo Link](https://github.com/Classickayy/EventManagementSystemBackend)
+
+## Deployed Project
+
+The project is deployed and can be accessed at: [Deployed Project Link](#)
+
 ## Features
 
 - **Event Discovery**: Users can browse and filter events by type, date, and location.
